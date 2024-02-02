@@ -22,7 +22,7 @@
 
 但是人们会观测到徘徊运动的行星。事实上行星这个名字就是源于人们观察到行星在夜空中是在“行走、运动”的，而恒星就像是夜幕中恒定不变的光点，这是由于恒星（太阳除外）离我们地球的距离都太遥远了。
 
-![image-20240201170805257](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/image-20240201170805257.png)
+![火星视运动示意图](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/火星视运动示意图.png)
 
 上图是火星的逆行现象。Right ascension指赤经，Declination指赤纬。
 
@@ -30,7 +30,7 @@
 
 之后托勒密完善了本轮均轮学说，建立了**托勒密模型**。
 
-![image-20240201171402361](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/image-20240201171402361.png)
+![本轮均轮模型](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/本轮均轮模型.png)
 
 上图中，epicycle表示本轮，deferent表示均轮。
 
@@ -42,7 +42,7 @@
 
 其实，日心说最早可以追溯到公元前3世纪的**阿里斯塔克斯**。但是完整的日心学说要等到16世纪的**哥白尼**提出。在他的《天体运行论》中，提出了下图所示的行星运动模型：
 
-![行星运动模型](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/image-20240201195609551.png)
+![行星运动模型](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/行星运动模型.png)
 
 哥白尼日心说的提出，使得宇宙观不再那么烦琐，更加简洁优雅。
 
@@ -50,7 +50,7 @@
 
 根据哥白尼的学说，我们得以确定太阳系行星分布的基本结构。
 
-![行星的轨道构型](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/image-20240201202014016.png)
+![行星的轨道构型](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/行星的轨道构型.png)
 
 根据行星轨道在地球轨道的内外，从而把行星分为**内行星**（inferior planets）和**外行星**（superior planets）。
 
@@ -64,7 +64,7 @@
 
 以火星为例，因为行星离太阳越远，那么行星在轨道上运动的速度也就更慢，火星就会被移动更快的地球所超越，因此火星的视位置将在相对固定的恒星背景上发生变化。
 
-![火星逆行](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/image-20240201213914686.png)
+![火星逆行](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/火星逆行.png)
 
 如上图所示，当火星在**冲**位置附近，地球会超过火星，火星似乎就在冲附近向后移动。对应于图中 <img src="https://www.zhihu.com/equation?tex=3\rightarrow4\rightarrow5" alt="3\rightarrow4\rightarrow5" class="ee_img tr_noresize" eeimg="1"> 的情况。
 
@@ -116,20 +116,22 @@
 
 **球面角**是两个大圆圆弧相交所成的角。用球面角的顶点为极做大圆所得到的弧段为度量。
 
-![球面基本概念](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/b201c77362483cf270abe1937a1620f.jpg)
+![球面基本概念](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/球面基本概念.jpg)
 
 **球面三角形**的边都是大圆圆弧。球面三角形的三边之和大于0 <img src="https://www.zhihu.com/equation?tex=\textdegree" alt="\textdegree" class="ee_img tr_noresize" eeimg="1"> ，小于360 <img src="https://www.zhihu.com/equation?tex=\textdegree" alt="\textdegree" class="ee_img tr_noresize" eeimg="1"> ；三角之和大于180 <img src="https://www.zhihu.com/equation?tex=\textdegree" alt="\textdegree" class="ee_img tr_noresize" eeimg="1"> ，小于540 <img src="https://www.zhihu.com/equation?tex=\textdegree" alt="\textdegree" class="ee_img tr_noresize" eeimg="1"> 。两角之和减去第三角小于180 <img src="https://www.zhihu.com/equation?tex=\textdegree" alt="\textdegree" class="ee_img tr_noresize" eeimg="1"> 。
 
-![3221401354460af5471f27b4b4ae730](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/3221401354460af5471f27b4b4ae730.jpg)
+![球面三角形](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/球面三角形.jpg)
 
 #### 2，球面三角基本公式
 
 这里直接截取了之前做的笔记：
 
-![2e8df2f0b874b21c292abd6f07946fa](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/2e8df2f0b874b21c292abd6f07946fa.jpg)
+![笔记1](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/笔记1.jpg)
 
-![795ac93cdcd205a14c3b6bf62fc01f4](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/795ac93cdcd205a14c3b6bf62fc01f4.jpg)
+![笔记2](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/笔记2.jpg)
 
-![28fef88921f29d60c58f538591b1e9a](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/28fef88921f29d60c58f538591b1e9a.jpg)
+#### 3，特殊的球面三角形
 
-![c457aec9e1dad24b23117d6a9a542ba](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/c457aec9e1dad24b23117d6a9a542ba.jpg)
+![笔记3](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/笔记3.jpg)
+
+![笔记4](https://raw.githubusercontent.com/Daihuoo/Markdown4Zhihu/master/Data/天球（一）/笔记4.jpg)
